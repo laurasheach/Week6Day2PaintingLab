@@ -1,0 +1,22 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decorator.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurasheach/Week6Day2PaintingLab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurasheach/Week6Day2PaintingLab/issues"
+  },
+  "homepage": "https://github.com/laurasheach/Week6Day2PaintingLab#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
